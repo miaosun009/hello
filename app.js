@@ -3,8 +3,8 @@
  * Module dependencies.
  */
 
-var express = require("express");
-var app     = express();
+const express = require("express");
+const app     = express();
 var path    = require("path");
 
 
